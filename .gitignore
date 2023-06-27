@@ -17,4 +17,3 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
-/resources/views/components/text-input.blade.php
